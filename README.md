@@ -197,8 +197,8 @@ Future Improvements
 
 - Secure global patient database
 
-Data encryption for medical compliance
+- Data encryption for medical compliance
 
-Additional sensors (e.g., ECG monitoring)
+- Additional sensors (e.g., ECG monitoring)
 
-Medical regulatory compliance (WHO standards)
+- Medical regulatory compliance (WHO standards)
